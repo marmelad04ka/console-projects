@@ -29,13 +29,13 @@ A console-based number guessing game where players try to guess a randomly gener
    ```
 2. **Run the game:**
   ```bash
-  python number_guessing_game.py
+   python number_guessing_game.py
   ```
   or
   ```bash
-  py number_guessing_game.py
+   py number_guessing_game.py
   ```
 **If you're using Python 3 specifically:**
-```bash
-python3 number_guessing_game.py
-```
+  ```bash
+   python3 number_guessing_game.py
+  ```
