@@ -1,5 +1,7 @@
 # Number Guessing Game
 
+https://roadmap.sh/projects/number-guessing-game
+
 A console-based number guessing game where players try to guess a randomly generated number between 1 and 100 with progressive hints.
 
 ## Features
