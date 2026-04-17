@@ -14,8 +14,6 @@ A console-based number guessing game where players try to guess a randomly gener
   - Hint 3: Which ten
   - Hint 4: Three possible numbers including the answer
 - **Leaderboard** tracking best scores for each difficulty
-- **Multi-language ready** (English/Russian support structure)
-- **Input validation** with user-friendly error messages
 
 ## Requirements
 
