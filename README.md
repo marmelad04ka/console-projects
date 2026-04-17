@@ -33,3 +33,7 @@ A console-based number guessing game where players try to guess a randomly gener
   ```bash
   python number_guessing_game.py
   ```
+**If you're using Python 3 specifically:**
+```bash
+python3 number_guessing_game.py
+```
